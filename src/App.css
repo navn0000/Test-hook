@@ -1,0 +1,10 @@
+.backSide{
+	background-color: aqua !important;
+	height: 1000px;
+}
+.frontSide{
+	background-color: brown;
+}
+.container-fluid{
+	max-width: 1920px !important;
+}
